@@ -1,4 +1,6 @@
 # ETL Pipeline for Sales Data Analytics
+# Data is taken from kaggle with amazon_sales_data
+
 ### Project Overview
 This project focuses on building an ETL (Extract,Transform, Load) pipeline that processes sales data,performs data cleaning and transformation, and loads the final dataset into a PostgreSQL database for analytical reporting.
 
