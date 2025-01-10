@@ -1,0 +1,8 @@
+2025-01-10 12:15:00 - INFO - User logged in successfully
+2025-01-10 12:20:00 - DEBUG - Fetching user details from API
+2025-01-10 12:25:00 - ERROR - API timeout occurred
+2025-01-10 12:30:00 - WARNING - High memory usage detected
+2025-01-10 12:35:00 - INFO - Scheduled task completed successfully
+2025-01-10 12:40:00 - DEBUG - Cache cleared for user session
+2025-01-10 12:45:00 - ERROR - Database connection lost
+2025-01-10 12:50:00 - INFO - Database connection re-established

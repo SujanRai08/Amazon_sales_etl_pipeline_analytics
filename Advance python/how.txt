@@ -1,0 +1,16 @@
+How It Works
+Log Reading:
+
+The generator read_logs() reads the log file line by line, avoiding memory overload.
+Parsing Logs:
+
+parse_log() uses a regex to extract structured data from each log entry (timestamp, level, message).
+Database Handling:
+
+The DatabaseManager class ensures efficient database operations using a context manager.
+Concurrent Processing:
+
+Multiple log files are processed concurrently using multithreading.
+Execution Logging:
+
+The log_execution decorator tracks the start and end times of key functions.
